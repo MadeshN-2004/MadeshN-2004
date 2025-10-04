@@ -37,7 +37,7 @@
 
 ```typescript
 const Madesh = {
-    location: "Chennai, Tamil Nadu 🇮🇳",
+    location: "Tirunelveli, Tamil Nadu 🇮🇳",
     education: "B.E CSE @ SREC 🎓",
     currentRole: "Full-Stack Developer 💻",
     
