@@ -184,21 +184,30 @@ const Madesh = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📊 Contribution Snake
+## 📊 Coding Stats
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/MadeshN-2004/MadeshN-2004/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadeshN-2004&theme=algolia" width="90%" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadeshN-2004&theme=algolia" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MadeshN-2004&theme=algolia" width="45%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 💭 Developer Quote
+## 💭 My Code Philosophy
 
 <div align="center">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=algolia&animation=default&layout=default&font=default)
+### ✨ *"First, solve the problem. Then, write the code."* – John Johnson
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+### 🚀 *"Make it work, make it right, make it fast."* – Kent Beck
 
 </div>
 
