@@ -54,7 +54,7 @@
 ```typescript
 const Madesh = {
     location: "Tirunelveli, Tamil Nadu 🇮🇳",
-    education: "B.E CSE @ SREC 🎓",
+    education: "B.E CSE @ SREC Coimbatore 🎓",
     currentRole: "Full-Stack Developer 💻",
     
     workingOn: {
@@ -65,6 +65,7 @@ const Madesh = {
     
     achievements: [
         "🏆 TNSCST Funded Project 2025-26",
+        "🎯 Smart India Hackathon - Qualified 2 Rounds",
         "💡 86.6% ML Model Accuracy",
         "👥 180+ Users ERP System",
         "🌟 Open Source Contributor"
@@ -212,8 +213,8 @@ const Madesh = {
 <a href="https://github.com/MadeshN-2004/KnowledgeHub.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeshN-2004&repo=KnowledgeHub&theme=algolia&hide_border=true" />
 </a>
-<a href="https://github.com/MadeshN-2004/school-erp-website.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeshN-2004&repo=school-erp-website&theme=algolia&hide_border=true" />
+<a href="https://github.com/MadeshN-2004/women-safety-application-web-app.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadeshN-2004&repo=women-safety-application-web-app&theme=algolia&hide_border=true" />
 </a>
 
 </div>
@@ -247,6 +248,16 @@ const Madesh = {
 - 🔍 Semantic search capabilities
 - 💬 Contextual Q&A system
 - 🔐 Role-based authentication
+
+### 👩 Women Safety Web App
+**Tech Stack:** HTML • CSS • JavaScript • Google Maps API • Voice Recognition API
+
+- 🏆 **Smart India Hackathon - Qualified 2 Rounds**
+- 🌍 Real-time location tracking with Google Maps
+- 🎤 Voice recognition for emergency alerts
+- 📍 Automatic location sharing with emergency contacts
+- 🔐 Secure profile system with essential details
+- ⚡ Instant "help" trigger functionality
 
 ### 🏫 School ERP Management System
 **Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
@@ -363,10 +374,11 @@ const Madesh = {
 <img align="right" alt="Certificate" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 🏆 **TNSCST Student Project Scheme 2025–26** - Selected for Funding
+- 🎯 **Smart India Hackathon (SIH)** - Qualified 2 Rounds
 - 📜 **Digital Marketing – Complete Toolkit** - Udemy
 - 📜 **Introduction to MongoDB** - MongoDB University
 - 📜 **Privacy and Security in Online Social Media** - NPTEL
-- 🎓 **B.E Computer Science** - SREC Coimbatore (7.22 GPA)
+- 🎓 **B.E Computer Science** - SREC Coimbatore
 
 <br clear="right"/>
 
@@ -413,7 +425,7 @@ const Madesh = {
 <a href="https://madesh-dev-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/nmadeshaa057124/">
+<a href="https://www.linkedin.com/in/n-madesh-aa0571243/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:madeshnickil@gmail.com">
