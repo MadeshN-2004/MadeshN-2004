@@ -8,7 +8,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there, I'm Madesh N! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;AI+%2F+ML+Explorer+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
 <br>
 
