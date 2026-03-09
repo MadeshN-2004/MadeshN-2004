@@ -143,10 +143,10 @@ const Madesh = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MadeshN-2004&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=MadeshN-2004&theme=algolia&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MadeshN-2004&show_icons=true&theme=algolia&hide_border=true&count_private=true&cache_seconds=1800" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=MadeshN-2004&theme=algolia&hide_border=true&cache_seconds=1800" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeshN-2004&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeshN-2004&layout=compact&theme=algolia&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MadeshN-2004&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
@@ -157,7 +157,7 @@ const Madesh = {
 ## 🏅 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadeshN-2004&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MadeshN-2004&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
