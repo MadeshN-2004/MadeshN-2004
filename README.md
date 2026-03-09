@@ -1,8 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madesh%20N&fontSize=56&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Integrations&descAlignY=56&descAlign=50&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20Madesh's%20Universe&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20|%20MERN%20Enthusiast%20|%20Frontend%20Developer&descAlignY=51&descAlign=50&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=620&lines=Hey+there!+I'm+Madesh+N+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+AI+Integrations+%F0%9F%A4%96;Building+real+products%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+</div>
+
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there, I'm Madesh N! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+AI+Integrations+%F0%9F%A4%96;Building+real+products%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 
 <br>
 
